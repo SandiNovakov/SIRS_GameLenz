@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "path": "^0.12.7"
+  },
+  "name": "veleri-razvoj-api",
+  "version": "1.0.0",
+  "description": "Proof of concept API for GameLenz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandiNovakov/veleri-razvoj-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandiNovakov/veleri-razvoj-api/issues"
+  },
+  "homepage": "https://github.com/SandiNovakov/veleri-razvoj-api#readme"
+}
